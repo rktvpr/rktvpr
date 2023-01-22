@@ -1,16 +1,25 @@
-### Hi there 👋
+### 👾 Rick Welte 👾
 
-<!--
-**rktvpr/rktvpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+[![RKTVPR's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKTVPR)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Description
+Hello! My name is Rick and I am currently enrolled in UPENN's Full Stack Web Development Bootcamp.
+
+## 🖥️ My skills 🖥️
+-HTML5
+-CSS3
+-Javascript
+-Bootstrap
+-Express
+-React
+-Node
+-MySQL2
+-Sequelize
+-jquery
+-Heroku
+-Git
+-NPM
+-Jest
+
