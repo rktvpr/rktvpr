@@ -8,18 +8,18 @@
 Hello! My name is Rick and I am currently enrolled in UPENN's Full Stack Web Development Bootcamp.
 
 ## 🖥️ My skills 🖥️
--HTML5
--CSS3
--Javascript
--Bootstrap
--Express
--React
--Node
--MySQL2
--Sequelize
--jquery
--Heroku
--Git
--NPM
--Jest
+HTML5,
+CSS3,
+Javascript,
+Bootstrap,
+Express,
+React,
+Node,
+MySQL2,
+Sequelize,
+jquery,
+Heroku,
+Git,
+NPM,
+Jest
 
