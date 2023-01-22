@@ -4,7 +4,7 @@
 [![RKTVPR's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKTVPR)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##Description
+## Description
 Hello! My name is Rick and I am currently enrolled in UPENN's Full Stack Web Development Bootcamp.
 
 ## 🖥️ My skills 🖥️
