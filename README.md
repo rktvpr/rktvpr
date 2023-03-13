@@ -6,7 +6,7 @@
 
 
 ## Description
-Hello! My name is Rick and I am currently enrolled in UPENN's Full Stack Web Development Bootcamp.
+Hello! My name is Rick and I have recently graduated UPENN's Full Stack Web Development Bootcamp.
 
 ## 🖥️ My skills 🖥️
 HTML5,
